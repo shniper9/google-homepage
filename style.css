@@ -108,7 +108,7 @@ li {
     border-style: solid;
     border-radius: 25px;
     background-color: white;
-    background-image: url("/images/searchicon.png");
+    background-image: url("images/searchicon.png");
     background-position: 15px;
     background-repeat: no-repeat;
     background-size:20px;
@@ -124,7 +124,7 @@ li {
 .appsbutton{
     width:40px;
     height:40px;
-    background-image: url("/images/appsbutton.png");
+    background-image: url("images/appsbutton.png");
     background-color: white;
     border-style:none;
     background-position: 10px;
